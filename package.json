@@ -1,0 +1,18 @@
+{
+  "name": "docs",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "preview": "vite preview",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.3.1"
+  },
+  "volta": {
+    "node": "20.9.0",
+    "yarn": "4.0.1"
+  }
+}
