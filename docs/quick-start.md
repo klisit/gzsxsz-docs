@@ -3,7 +3,7 @@
 此文档由 VitePress 编写 .
 
 ## 主页页面介绍
-![主页介绍](./main-ind.png)
+![主页介绍](/main-ind.png)
 
 
 ### 菜单列表
