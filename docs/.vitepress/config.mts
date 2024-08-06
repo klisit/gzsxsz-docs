@@ -23,6 +23,10 @@ export default defineConfig({
               {
                 text: '菜单管理',
                 link: '/manage/cms/menu'
+              },
+              {
+                text: '文章管理',
+                link: '/manage/cms/post'
               }
             ]
           }

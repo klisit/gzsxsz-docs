@@ -3,9 +3,9 @@ const path = require('path');
 const sharp = require('sharp');
 
 // 源文件夹路径
-const sourceDir = './docs/public/cms';
+const sourceDir = './input';
 // 目标文件夹路径
-const destinationDir = './docs/output';
+const destinationDir = './docs/public/cms';
 
 // 确保目标文件夹存在
 if (!fs.existsSync(destinationDir)) {
